@@ -1,5 +1,6 @@
 # Folders
 build/
+qt-build/
 
 # Prerequisites
 *.d

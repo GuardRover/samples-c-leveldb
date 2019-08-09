@@ -17,5 +17,6 @@ int main()
         cerr << status.ToString() << endl;
         return -1;
     }
+    cout << "OK" << endl;
     return 0;
 }
